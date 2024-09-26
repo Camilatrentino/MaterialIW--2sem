@@ -98,7 +98,7 @@ function Form(){
                 </div>
 
                 <div>
-                    <button>Cadastrar</button>
+                    <button >Cadastrar</button>
                 </div>
 
                 <div>
