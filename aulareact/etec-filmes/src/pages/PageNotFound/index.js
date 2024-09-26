@@ -8,15 +8,10 @@ function PGN(){
     return(
        <>
         <Header></Header>
-
         <section className={styles.container}>
-
         <h2>Ops! Não é por aqui</h2>
-
         <img src ={erro404} alt=""></img>
-        
         </section>
-
         <Footer></Footer>
        </>
     );

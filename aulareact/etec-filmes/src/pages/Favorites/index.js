@@ -18,11 +18,9 @@ function Favorites(){
         <>
         <ScrollTop></ScrollTop>
         <Header> </Header>
-        <Banner image="favoritos" />
-
+    
         <Container>
 
-          
             
             <section className={styles.favorites}>
                 <h2>Meus Favoritos</h2>
