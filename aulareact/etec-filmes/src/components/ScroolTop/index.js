@@ -11,7 +11,7 @@ function ScrollTop(){
 
     return(
 
-      <button onClick={click}>
+      <button className="buttontotop" onClick={click}>
         &#9650;
       </button>    
 
